@@ -1,0 +1,9 @@
+{
+  "name": "moja-aplikacja",
+  "version": "1.0.0",
+  "description": "Prosta aplikacja Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
